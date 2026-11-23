@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Tooling and OS
+.ruff_cache/
+.DS_Store
+
+# Local runtime artifacts
+*.log
+*.db
