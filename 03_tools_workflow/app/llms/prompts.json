@@ -1,0 +1,17 @@
+[
+  {
+    "id": "summary",
+    "name": "Short summarization",
+    "prompt": "Summarize in exactly two bullet points: A neighborhood library extended its weekday hours after a six-month pilot. Evening visits rose by 35%, while weekend visits stayed about the same. The library will keep the new hours and survey residents next spring."
+  },
+  {
+    "id": "reasoning",
+    "name": "Simple reasoning",
+    "prompt": "A team has 120 support requests. 25% are billing questions, and one third of the remaining requests are login issues. How many requests are neither billing nor login issues? Show the arithmetic briefly."
+  },
+  {
+    "id": "structured",
+    "name": "Structured extraction",
+    "prompt": "Extract the following into JSON with keys \"name\", \"date\", and \"action\": 'Mina will send the revised budget to Omar by 2026-12-03.' Return only valid JSON."
+  }
+]
