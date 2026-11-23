@@ -1,0 +1,13 @@
+Data Analyst
+
+Required
+- 3 or more years in an analytics role
+- SQL, including joins and aggregations
+- Building dashboards in Tableau or Looker
+
+Preferred
+- Python for data analysis
+- Designing or analyzing A/B tests
+
+Experience
+- The candidate has presented findings to a non-technical stakeholder group.

@@ -1,0 +1,3 @@
+Name: Amit kumar
+
+Backend engineer with 8 years of experience. Designed and led the architecture of a payments platform used in production. The platform exposes REST APIs written in Java and Spring Boot, stores transactions in PostgreSQL, and publishes events to Apache Kafka. Deployed the services on Kubernetes in Amazon Web Services.

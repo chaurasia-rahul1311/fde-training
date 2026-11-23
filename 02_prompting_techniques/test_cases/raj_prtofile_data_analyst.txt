@@ -1,0 +1,3 @@
+Name: Raj Patel
+
+Analyst with 4 years of experience. Wrote SQL queries with joins and aggregations over sales and support tables. Built weekly revenue dashboards in Tableau. Used Python pandas to clean exported CSV files before loading them. Presented the quarterly revenue review to the sales managers.

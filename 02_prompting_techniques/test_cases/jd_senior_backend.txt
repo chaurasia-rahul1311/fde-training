@@ -1,0 +1,16 @@
+Senior Backend Engineer
+
+Required
+- 5 or more years of backend development
+- Java
+- Spring Boot
+- PostgreSQL
+- Design and build REST APIs
+
+Preferred
+- Kubernetes
+- Apache Kafka
+- Amazon Web Services (AWS)
+
+Experience
+- Architecture leadership: the candidate has led the technical design of a production system, not only implemented tasks assigned by someone else.
